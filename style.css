@@ -1,0 +1,175 @@
+
+/*circle coading start*/
+        .cards:hover{
+            background-color: #ffc107;
+        }
+        .cir{
+            border-radius: 50%;
+            overflow: hidden;
+        }
+/*circle coading end */
+/*footer coading start */
+       .adeshkumar{
+		              background-color: darkorange;
+		             text-align: center;
+		             font-size: 30px;
+		             font-family: ALGERIAN;
+}
+/*footer coading end*/
+
+/*slider coading start*/
+.adeshkumar1{
+	           background-color: black;
+}
+/*slider coading end*/
+
+/*slider2 coading start*/
+       .a{
+		   border-radius: 50%;
+		   overflow: hidden;
+}
+.adeshkumar3{
+	          background-color: darkgray;
+	          font-family: ALGERIAN;
+	          text-align: center;
+	font-size: 30px;
+}
+/*slider2 coading end*/
+
+/* start navbar coding*/
+.adeshkumar2{
+	             background-color: powderblue;
+}
+/* end navbar coding*/
+/* header  coading start*/
+     #y{
+				font-size: 40px;
+				color: blue;
+				margin: 10px 10px 0px 10px;
+		         text-decoration: none;
+			}
+			#r{
+				font-size: 40px;
+				color: darkturquoise;
+				margin: 10px 10px 0px 10px;
+				text-decoration: none;
+			}
+			#e{
+				font-size: 40px;
+				color: red;
+				margin: 10px 10px 0px 10px;
+				text-decoration: none;
+			}
+			#t{
+				font-size: 40px;
+				color:maroon;
+				margin: 10px 10px 0px 10px;
+				text-decoration: none;
+			}
+			#u{
+				font-size: 40px;
+				color: green;
+				margin: 10px 10px 0px 10px;
+				text-decoration: none;
+			}
+			#s{
+				font-size: 40px;
+				color: orange;
+				margin: 10px 10px 0px 10px;
+				text-decoration: none;
+}
+/* header coading start*/
+/*slider about page coading end*/
+               .skit{
+				     height: 400px;
+				     width: 400px;
+}
+
+/*slider about page coading end*/
+/*Bca main part Coading start*/
+         adesh{
+			   border: 2px solid grey;
+}
+/*Bca main part Coading start*/
+/*bca information part coading start*/
+					  
+                  .w{
+					  text-align: center;
+}
+
+       
+/*bca information part coading end*/
+/*nabvar2 bca page coading end*/
+              .w{
+				  text-align: center;
+				  color: burlywood;
+}
+/*nabvar2 bca page coading end*/
+/*gallery page coading coading start*/
+
+*{padding: 0; margin: 0; box-sizing: border-box;}
+
+  .mesorny{
+	       columns: 4;
+	        column-gap: 16px;
+}
+.llll{
+	 width: 100%;
+	 border-radius: 5px;
+	height: 200px;
+}
+.grid-images{
+	  display: inline-block;
+	 margin-bottom: 16px;
+	position: relative;
+}
+@media (max-width:1200px)
+	{
+		.mesorny{
+			      columns: 3;
+		}
+}
+
+@media (max-width:992px)
+	{
+		.mesorny{
+			      columns: 2;
+			margin-left: 35px;
+		}	
+}
+/*gallery page coading coading end*/
+
+/* index page coading start*/
+/*
+.card-text{
+	         font-family: garamond;
+	
+}
+@media (max-width:1200px){
+.index{    
+	flex-wrap:wrap;
+}
+}
+@media  (max-width:900px){
+.index{
+	    flex-wrap:wrap;
+}
+}
+@media (min-width:600px){
+.index{
+	    flex-wrap:wrap;
+}
+}
+*/
+/* index page coading end*/
+
+
+
+
+
+
+
+
+
+
+
